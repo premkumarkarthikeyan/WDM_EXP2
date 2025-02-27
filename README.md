@@ -42,7 +42,8 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/0c957b61-04f0-4095-8ed9-1fc43aaba653)
+![image](https://github.com/user-attachments/assets/34258d92-da40-4445-ab5c-b8ea7eea8b53)
+
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,7 +54,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
-![Screenshot 2025-02-27 153909](https://github.com/user-attachments/assets/cb5e8c51-717a-46ce-9195-f28cbd686ff6)
+![Screenshot 2025-02-27 160012](https://github.com/user-attachments/assets/5db34abe-2fdb-4be6-b358-b0b0c093cb9e)
 
 ### RESULT: 
 Thus, generation of association rules using apriori algorithm is executed succesfully.
